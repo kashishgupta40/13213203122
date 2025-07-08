@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "name": "13213203122_starter",
+  "version": "1.0.0",
+  "description": "This repository contains: - question1: Backend using Node.js + Express - question2: Frontend using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
